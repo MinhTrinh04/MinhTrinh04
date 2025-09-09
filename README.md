@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="">
-</div>
-
 # 👉 About myself
 Xin chào, mình tên là Trịnh Quang Minh👋. 
 
@@ -28,34 +24,10 @@ Bonjour, je m'appelle Trinh Quang Minh👋.
   <a href="https://www.instagram.com/minhdodo__"><img src="https://img.icons8.com/color/96/000000/instagram.png" alt="instagram"/></a>
 </p>
 
-## Skills
+## Skills and Tools
 
-Programming languages:
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Shell](https://img.shields.io/badge/shell-3178C6?logo=shell&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![Ruby](https://img.shields.io/badge/Ruby-000000?logo=ruby&logoColor=white&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,docker,grafana,prometheus,postman,express,git,html,java,js,jenkins,kubernetes,kafka,rabbitmq,mongodb,mysql,nextjs,nodejs,postgres,py,react,redis,spring,tailwind,ts,idea,unity&theme=light)](https://skillicons.dev)
 
-Mobile:
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-
-Web:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-3178C6?logo=postgresql&logoColor=white&style=for-the-badge)
-
-Software:
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 ## Certificate
 [Google Project Management](https://coursera.org/share/cf394113dfe8fb36840541e123ca5af4)
