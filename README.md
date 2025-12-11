@@ -14,9 +14,6 @@ Bonjour, je m'appelle Trinh Quang Minh👋.
 - ⚡ Fun fact: I spend almost 12 hours for listening US-UK music every day.
 
 
-  
-[![MinhTrinh04's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhTrinh04&theme=radical)]
-
 ## :link: Links
 <p align="center">
   <a href="https://www.facebook.com/Minhdodo281"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
